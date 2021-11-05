@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/menyagah/EcommerceApp/issues"
   },
-  "homepage": "https://github.com/menyagah/EcommerceApp#readme"
+  "homepage": "https://github.com/menyagah/EcommerceApp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14"
+  }
 }
