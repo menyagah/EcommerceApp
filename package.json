@@ -4,7 +4,7 @@
   "description": "A JavaScript ecommerce application built using nodejs express and basic javascript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
