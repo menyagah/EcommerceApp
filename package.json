@@ -1,0 +1,20 @@
+{
+  "name": "EcommerceApp",
+  "version": "1.0.0",
+  "description": "A JavaScript ecommerce application built using nodejs express and basic javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menyagah/EcommerceApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/menyagah/EcommerceApp/issues"
+  },
+  "homepage": "https://github.com/menyagah/EcommerceApp#readme"
+}
